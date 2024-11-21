@@ -2,3 +2,18 @@ body{
     background-color: #001b1e;
     color: #ffe5bb;
 }
+header img{
+    max-width: 5rem;
+}
+header{
+    background-color: #004E5B;
+}
+header nav{
+    text-align: right;
+}
+header h2{
+    text-align: right;
+}
+section .school, .achievements, .work{
+    background-color: #004E5B;
+}
